@@ -3,6 +3,8 @@ Learning how to use TypeScript
 
 ## Sample Typescript Codes
 
+![image](https://github.com/user-attachments/assets/e8110d4a-bda9-424b-a156-8bea3c4c6366)
+
 ![image](https://github.com/user-attachments/assets/830f675f-0509-409f-a869-ae52b3e86542)
 
 ![image](https://github.com/user-attachments/assets/f42b58d6-7d8c-49ff-865d-b2b10966b38b)
